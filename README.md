@@ -24,11 +24,3 @@ Pass.in é uma aplicação de sistemas de check-in para eventos presenciais. Ela
 
 ## Link do Projeto Rodando
 [Pass.in](render.com)
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
